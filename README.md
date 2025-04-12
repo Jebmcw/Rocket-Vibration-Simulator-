@@ -21,7 +21,7 @@ A lightweight Python simulation that models structural vibration in a rocket sys
 ```bash
 pip install -r requirements.txt
 python main.py
-
+'''
 
 ### 📊 Output Example
 ## 🛠️ Built With
